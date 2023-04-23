@@ -13,6 +13,7 @@ Lyrics Quizz Dart is a simple command-line quiz game written in Dart. The game p
 This code has two built-in dependencies:
 
 `dart:io`: provides classes for performing input and output operations in Dart.
+
 `dart:math`: provides a random number generator to select a question from the list.
 
 Have fun playing Lyrics Quizz Dart!
